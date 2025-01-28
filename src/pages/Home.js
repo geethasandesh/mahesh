@@ -8,15 +8,15 @@ import HS from '../Images/hs.jpg'; // Import the image
 function Home() {
   return (
     <div>
-      <div className="min-h-screen bg-cover bg-center" style={{ backgroundImage: `url(${HS})` }}>
+      <div className="min-h-screen bg-cover bg-center " style={{ backgroundImage: `url(${HS})` }}>
         {/* Hero Section */}
-        <div className="flex flex-col md:flex-row items-center justify-between p-8 md:p-16">
+        <div className="flex flex-col md:flex-row items-center justify-between  p-8 md:p-16">
           {/* Left Section: Text Content */}
-          <div className="text-center md:text-left max-w-xl">
+          <div className="text-center md:text-left max-w-xl mt-24">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight">
               Digital Marketing Agency
             </h1>
-            <p className="mt-4 text-lg text-gray-600">
+            <p className="mt-4 text-lg font-mono text-gray-600">
               Unlock Your Business Potential
             </p>
             <div className="mt-6 flex flex-col md:flex-row gap-4 justify-center md:justify-start">

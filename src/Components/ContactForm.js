@@ -80,15 +80,15 @@ const ContactSection = () => {
                         <div className="space-y-4">
                             <div className="flex items-center space-x-4">
                                 <span className="text-blue-600 text-2xl">📞</span>
-                                <p className="text-gray-700">+1 (123) 456-7890</p>
+                                <p className="text-gray-700">+1 (91) 6303070510</p>
                             </div>
                             <div className="flex items-center space-x-4">
                                 <span className="text-blue-600 text-2xl">📧</span>
-                                <p className="text-gray-700">info@example.com</p>
+                                <p className="text-gray-700">maheshinapa7526@gmail.com</p>
                             </div>
                             <div className="flex items-center space-x-4">
                                 <span className="text-blue-600 text-2xl">📍</span>
-                                <p className="text-gray-700">123 Main Street, City, Country</p>
+                                <p className="text-gray-700">Teladharpalli, Khammam, Telangana</p>
                             </div>
                         </div>
                         <div>
