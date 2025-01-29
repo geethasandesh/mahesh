@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ClientLogos = () => {
-  const clientNames = ['Shell', 'Nike', 'Ferrari','supra','Sandesh','Prakash','Mahesh'];
+  const clientNames = ['Web Development', 'App Development', 'Marketing','Editing','Content Creation','Photography','Analysis'];
 
   return (
     <div className="flex flex-wrap justify-center gap-8 py-12">
