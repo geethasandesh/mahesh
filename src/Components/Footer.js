@@ -14,7 +14,7 @@ const Footer = () => {
                                 <span className="text-xl font-bold">🔲</span>
                             </div>
                             <span className="text-lg font-semibold text-gray-300">
-                                ProgMarketing, Inc.
+                                ProgMarketing
                             </span>
                         </div>
                         <p className="mt-4 text-sm text-gray-500">

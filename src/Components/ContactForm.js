@@ -5,7 +5,7 @@ const ContactSection = () => {
         <section className="bg-gray-50 py-16">
             <div className="max-w-7xl mx-auto px-6">
                 {/* Section Title */}
-                <h2 className="text-3xl font-bold text-gray-800 text-center mb-8">
+                <h2 className="text-3xl font-bold text-blue-900 text-center mb-8">
                     Get in Touch
                 </h2>
 
@@ -88,7 +88,7 @@ const ContactSection = () => {
                             </div>
                             <div className="flex items-center space-x-4">
                                 <span className="text-blue-600 text-2xl">📍</span>
-                                <p className="text-gray-700">Teladharpalli, Khammam, Telangana</p>
+                                <p className="text-gray-700">Teldarpalli, Khammam, Telangana</p>
                             </div>
                         </div>
                         <div>

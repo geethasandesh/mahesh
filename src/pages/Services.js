@@ -22,6 +22,26 @@ const ServicesOverview = () => {
             description: "Drive traffic and conversions with targeted ads.",
             icon: "💰",
         },
+        {
+            title: "Web Design",
+            description: "Drive traffic and conversions with targeted ads.",
+            icon: "💰",
+        },
+        {
+            title: "Video Editing",
+            description: "Drive traffic and conversions with targeted ads.",
+            icon: "💰",
+        },
+        {
+            title: "Google Ads",
+            description: "Drive traffic and conversions with targeted ads.",
+            icon: "💰",
+        },
+        {
+            title: "Email Marketing",
+            description: "Drive traffic and conversions with targeted ads.",
+            icon: "💰",
+        },
     ];
 
     return (
@@ -43,15 +63,6 @@ const ServicesOverview = () => {
                             <p className="text-gray-600">{service.description}</p>
                         </div>
                     ))}
-                </div>
-                {/* CTA Button */}
-                <div className="mt-10">
-                    <a
-                        href="/services"
-                        className="bg-blue-900 hover:bg-black text-white font-semibold py-3 px-8 rounded-full shadow-md transition duration-300"
-                    >
-                        View All Services
-                    </a>
                 </div>
             </div>
         </section>

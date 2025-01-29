@@ -3,6 +3,8 @@ import Testimonial from '../Components/Testimonial';
 import ServiceCard from '../Components/ServiceCard';
 import ContactForm from '../Components/ContactForm';
 import Clients from '../Components/Clients';
+import Vision from '../Components/Vision';
+import Faq from '../Components/Faq';
 import HS from '../Images/hs.jpg'; // Import the image
 
 function Home() {
@@ -37,6 +39,12 @@ function Home() {
         {/* Testimonial Section */}
         <div>
           <Testimonial />
+        </div>
+        <div>
+          <Vision/>
+        </div>
+        <div>
+          <Faq/>
         </div>
         {/* ContactForm Section */}
         <div>
